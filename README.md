@@ -1,2 +1,3 @@
 # Java-Learn-Test
-My Java practices 
+Topics completed:
+1. Hello world
